@@ -1,2 +1,2 @@
+from .utils import get_score, get_torch_sparse
 from .utils_data import get_data
-from .utils import get_torch_sparse,get_score

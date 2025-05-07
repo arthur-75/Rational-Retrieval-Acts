@@ -132,7 +132,7 @@ class RSA:
         return normalized_lexicon, Vd, Ut
 
     def literal_listener(self, lexicon):
-        print("Literal Pistener...")
+        print("Literal Listener...")
         return self.soft_max(lexicon, dim=1, classic=self.classic)
 
     def speaker(self, listener, Vd, Ut, cost=0):

@@ -13,4 +13,4 @@ Current sparse neural information retrieval (IR) methods, and to a lesser extent
 https://arxiv.org/abs/2505.03676
 
 ### SIGIR Poster
-![poster](https://github.com/arthur-75/Rational-Retrieval-Acts/blob/main/poster_SIGIR.svg)
+![poster](https://github.com/arthur-75/Rational-Retrieval-Acts/blob/poster/poster_SIGIR.svg)

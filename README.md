@@ -14,3 +14,7 @@ https://arxiv.org/abs/2505.03676
 
 ### SIGIR Poster
 ![poster](https://github.com/arthur-75/Rational-Retrieval-Acts/blob/poster/poster_SIGIR.svg)
+
+### Code Contributors
+- [Arthur Satouf](https://github.com/arthur-75)
+- [Gabriel Ben Zenou](https://github.com/GabrielBeFr)
